@@ -1,4 +1,4 @@
-Post-Launch Ruby method exercises and miscellaneous short problems.
+Post-Launch Ruby method exercises and miscellaneous short, "interview question"-style problems.
 
 To test locally:
 ```
